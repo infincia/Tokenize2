@@ -8,8 +8,7 @@
         "url": "https://github.com/zellerda/Tokenize2/issues"
     },
     "main": [
-        "/dist/tokenize2.min.js",
-        "/dist/tokenize2.min.css"
+        "tokenize2.js"
     ],
     "repository": {
         "type": "git",
@@ -27,6 +26,9 @@
         "tags",
         "taggify",
         "keywords"
+    ],
+    "files": [
+        "tokenize2.css"
     ],
     "license": "BSD",
     "dependencies": {
